@@ -58,7 +58,7 @@ Python · pandas · data cleaning · exploratory analysis · matplotlib · Jupyt
 
 ## Running it
 
-Open the notebook in Google Colab: [add badge/link here]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/141hfZQO49vsFeQHIVSIdPbpATm4iqgyJ?usp=sharing)
 
 The notebook loads data from Google Drive. To run it yourself:
 1. Download the trip data and zone lookup from the TLC link above
